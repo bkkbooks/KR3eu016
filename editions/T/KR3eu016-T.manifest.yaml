@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3eu016/T/v1
+canonical_location: https://kanripo.org/bkk/KR3eu016/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑
+  identifiers:
+    krp: KR3eu016
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu016.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3eu016_001-T.yaml, hash: 'sha256:9781b137c9d41dc7a3b7c2db07947890dd81fea26eee8ee112e127e6e27aa43d'}
+table_of_contents: []
+hash: sha256:3d319fb7cce8fac2c2d82645b2edfc2cbac1b81ba273e18748da67bf1587c14e
