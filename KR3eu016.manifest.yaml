@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu016/v1
 canonical_location: https://kanripo.org/bkk/KR3eu016/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫宗金鑑
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3eu016_001.yaml
     hash: sha256:9781b137c9d41dc7a3b7c2db07947890dd81fea26eee8ee112e127e6e27aa43d
 table_of_contents: []
-hash: sha256:a216dfcb78e089f4b548d804f1dd3b1c2a66732d86d8ebc64d6295f9bb86a2da
+hash: sha256:52f0bbbacc179620865431cc58853263847dd6ffcca22c4c330cdcd6c40a0901
